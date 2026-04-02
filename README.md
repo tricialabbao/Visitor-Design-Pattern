@@ -35,3 +35,5 @@ VisitorDesignPattern/
 - **Element** — `Furniture` interface with `accept()`
 - **Concrete Elements** — `Chair`, `Table`, `Sofa`
 
+## UML Class Diagram
+![Image](https://github.com/tricialabbao/Visitor-Design-Pattern/blob/main/VisitorPattern.jpeg)
